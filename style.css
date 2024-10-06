@@ -13,6 +13,7 @@ td {
     text-align: center;
     font-size: 22px;
     font-weight: bold;
+    height: 140px
 }
 
 .string {
@@ -21,4 +22,10 @@ td {
     font-family: Comic Sans MS, Comic Sans, cursive;
     font-style: italic;
     font-weight: bold;
+    height: 120px;
+    border-color: red;
+    border-style: solid;
+    border-weight: 5px;
+    border-radius: 5px;
+
 }
